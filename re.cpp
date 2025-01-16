@@ -7,8 +7,8 @@ int main()
   cin >> x ;
 
   switch(x){
-    case 15:
-    cout << "" << endl;
+    case 16:
+    cout << "143" << endl;
     break;
     case 40:
     cout << "x is fine" << endl;
